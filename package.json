@@ -2,7 +2,7 @@
   "name": "hpp-js",
   "version": "1.0.0",
   "description": "A simple hpp simulation written in js",
-  "main": "index.js",
+  "main": "src/hpp.js",
   "scripts": {
     "test": "ava"
   },
