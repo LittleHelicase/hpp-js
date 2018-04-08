@@ -1,0 +1,22 @@
+{
+  "name": "hpp-js",
+  "version": "1.0.0",
+  "description": "A simple hpp simulation written in js",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "author": "Maximilian Klein",
+  "license": "MIT",
+  "devDependencies": {
+    "ava": "^0.25.0",
+    "esm": "^3.0.16",
+    "sinon": "^4.5.0",
+    "standard": "^11.0.1"
+  },
+  "ava": {
+    "require": [
+      "esm"
+    ]
+  }
+}
